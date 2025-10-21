@@ -1,4 +1,4 @@
-# Reptiles Hub - Landing Page
+# Reptiles Hub - Landing Page 
 
 Официальный лендинг iOS приложения **Reptiles Hub** — персонального трекера для владельцев рептилий.
 
