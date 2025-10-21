@@ -1,0 +1,20 @@
+{
+  "name": "reptileshub-landing",
+  "version": "1.0.0",
+  "description": "Beautiful landing page for ReptilesHub",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
+  },
+  "dependencies": {
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "vite": "^4.4.9",
+    "gh-pages": "^6.1.0"
+  }
+}
+
